@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CryptoB4ddy
 - 👀 I’m interested in Programming AI and machine learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 
 
 <!---
